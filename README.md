@@ -5,8 +5,6 @@ Version 2 builds on Lab 1 and adds report export, GPA calculation, CSV import, c
 statistics and student search, plus custom exceptions, logging, unit tests and a
 SOLID-based design.
 
-![Java](https://img.shields.io/badge/Java-17%2B-blue) ![Tests](https://img.shields.io/badge/tests-185%20passing-brightgreen) ![Coverage](https://img.shields.io/badge/coverage-99%25-brightgreen)
-
 ---
 
 ## Table of contents
